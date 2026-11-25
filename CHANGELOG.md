@@ -21,3 +21,4 @@
 - v1.3: map explainer; preliminary rubric scores for all 235 shapes
 - v1.4: country pages load on demand from data/; score panel; library filters; 11 sourced pages (SSD, CAF, SOM, PSE, ERI, SYR, LBN, MLI, BFA, NER, TCD)
 - v1.4.1: draft labels and review bar removed for the public site
+- v1.5: 12 more sourced country pages (AFG, PAK, BGD, IRN, IRQ, ISR, UKR, RUS, TWN, PRK, NGA, CMR); 23 in total
