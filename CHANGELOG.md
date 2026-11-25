@@ -24,3 +24,4 @@
 - v1.5: 12 more sourced country pages (AFG, PAK, BGD, IRN, IRQ, ISR, UKR, RUS, TWN, PRK, NGA, CMR); 23 in total
 - v1.6: sourced pages for ETH, MOZ, VEN, BDI, ECU, COL; 29 in total
 - v1.7: sourced pages for LBY, MEX, ZWE, EGY, MDG, GNB; tier 1 complete; 35 pages in total
+- v1.8: sourced page for CUB; 36 pages in total
